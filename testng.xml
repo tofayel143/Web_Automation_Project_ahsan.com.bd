@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="E:/SQA Files/Web_AutomationProject/AutomationProject">
+        <classes>
+            <class name="org.test.HomePageTest">
+                <methods>
+                    <include name="homeTest"/>
+                </methods>
+            </class>
+            <class name="org.test.WriterListTest">
+                <methods>
+                    <include name="listTest"/>
+                </methods>
+            </class>
+            <class name="org.test.AuthorTest">
+                <methods>
+                    <include name="testAuthor"/>
+                </methods>
+            </class>
+            <class name="org.test.BookInfoTest">
+                <methods>
+                    <include name="bookInfoTest"/>
+                </methods>
+            </class>
+            <class name="org.test.MyCartTest">
+                <methods>
+                    <include name="myCartTest"/>
+                </methods>
+            </class>
+            <class name="org.test.CheckoutPageTest">
+                <methods>
+                    <include name="checkOutTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
