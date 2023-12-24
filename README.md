@@ -1,4 +1,4 @@
-## Web_Automation_Project_ahsan.com.bd
+# Web_Automation_Project_ahsan.com.bd
 ### **[# Selenium-Website-Automation-Using-Selenium-and-Page-Object-Model](url)**
 
 ### **[Technology used](url)**
@@ -6,7 +6,7 @@
 - Language: Java
 - Architecture: POM
 - Framework: TestNG
-- IDE: STS
+- IDE: STS, Intellij
 
 ### **[Pre Requisites:](url)**
 - Open/install Java JDK 14 version on your PC
