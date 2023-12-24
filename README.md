@@ -12,7 +12,7 @@
 - Open/install Java JDK 14 version on your PC
 - Install Maven on your PC
 - Install TestNG on your IDE
-- Install Eclipse/STS or any other IDE
+- Install Intellij/Eclipse/STS or any other IDE
 - Setup Java, Maven environment on your PC
 - Chrome driver match with your browser
 
@@ -21,13 +21,15 @@ These steps are executed:
 
 - Open the Chrome browser
 - Maximize the browser window
-- Go to  Evaly Web Site
-- Click login button 
-- Login with username and password
-- Click all shoes and select a shoe
-- Add to cart
-- Take Screenshot
-- Close the browser
+- Go to [Ahsan.com](https://ahsan.com.bd/) Site
+- Hover লেখক and Select উপন্যাস 
+- Scroll Down and View প্যারাডক্সিক্যাল সাজিদ
+- Click Add to Cart
+- Click Go to Cart
+- Click Proceed to Checkout
+- Login with google
+- Click Address and Click Add New Address Button
+- Provide All Information and Save
 
 ### **[Run the script:](url)**
 
